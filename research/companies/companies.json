@@ -1,0 +1,2352 @@
+{
+  "meta": {
+    "project": "Arabic Content Research System",
+    "goal": "Middle Eastern tech companies competitive analysis",
+    "total_companies": 230,
+    "countries": ["Saudi Arabia", "UAE", "Qatar", "Kuwait", "Bahrain", "Egypt", "Jordan"],
+    "categories": ["Software House", "Web Development", "Mobile App", "AI Company", "SaaS", "UI/UX", "Branding", "Digital Marketing", "SEO", "Cybersecurity", "Cloud"],
+    "last_updated": "2026-06-28"
+  },
+  "companies": [
+    {
+      "name": "Code",
+      "country": "Saudi Arabia",
+      "website": "https://code.sa",
+      "services": ["IT Infrastructure", "Software Development", "ICT Solutions"],
+      "positioning": "Enterprise IT partner inspiring vision",
+      "language_style": "Corporate, professional English",
+      "industry": "IT Services",
+      "size": "500+ employees"
+    },
+    {
+      "name": "AL Master",
+      "country": "Saudi Arabia",
+      "website": "https://almaster.tech",
+      "services": ["Custom Software Development", "SaaS", "Cloud Infrastructure", "Database Development"],
+      "positioning": "Top software company in Riyadh, Jeddah, Dammam",
+      "language_style": "Professional, SEO-optimized English",
+      "industry": "Software House",
+      "size": "Medium"
+    },
+    {
+      "name": "RSG (Rock Solid Group)",
+      "country": "Saudi Arabia",
+      "website": "https://rsg.one",
+      "services": ["Cybersecurity", "Business Intelligence", "ERP Solutions", "Software Development", "Gaming Solutions", "Media Production"],
+      "positioning": "Multidisciplinary talent group optimizing today for tomorrow",
+      "language_style": "Professional English with Arabic SEO keywords",
+      "industry": "IT Services",
+      "size": "160+ professionals"
+    },
+    {
+      "name": "Aqwas",
+      "country": "Saudi Arabia",
+      "website": "https://aqwas.sa",
+      "services": ["Digital Transformation", "UX Design", "Platform Development", "Government Solutions"],
+      "positioning": "Execution partner bridging business understanding with technical depth",
+      "language_style": "Formal, government-adjacent English",
+      "industry": "Digital Transformation",
+      "size": "Medium"
+    },
+    {
+      "name": "Code7",
+      "country": "Saudi Arabia",
+      "website": "https://code7.ai",
+      "services": ["Branding", "Web Development", "ERP", "AI Solutions"],
+      "positioning": "Complete software company from MVP to enterprise-grade production",
+      "language_style": "Confident, ambitious English",
+      "industry": "Software House",
+      "size": "Medium"
+    },
+    {
+      "name": "EDM Saudi Arabia",
+      "country": "Saudi Arabia",
+      "website": "https://edm-tech.com/en-sa",
+      "services": ["Microsoft Dynamics 365", "ERP", "CRM", "HR Solutions", "POS Systems"],
+      "positioning": "Microsoft Gold Partner serving MENA",
+      "language_style": "Technical, partnership-focused English",
+      "industry": "Enterprise Software",
+      "size": "8 employees"
+    },
+    {
+      "name": "Hwzn Tech (هوزن تك)",
+      "country": "Saudi Arabia",
+      "website": "https://hwzn.sa",
+      "services": ["Software Development", "Mobile Apps", "ERP Systems", "Web Development", "IT Staffing", "Digital Marketing"],
+      "positioning": "Leading Saudi technology company, #1 choice in Riyadh",
+      "language_style": "Bilingual Arabic-English, SEO-optimized, direct",
+      "industry": "Software House",
+      "size": "Medium"
+    },
+    {
+      "name": "Pixel Values Saudi Arabia",
+      "country": "Saudi Arabia",
+      "website": "https://pixelvalues.com.sa",
+      "services": ["IT Consulting", "Software Solutions", "Mobile App Development", "Digital Marketing", "SEO", "ASO"],
+      "positioning": "Global IT consulting with local presence in Saudi",
+      "language_style": "Professional, service-listing English",
+      "industry": "Software House",
+      "size": "45+ consultants"
+    },
+    {
+      "name": "Ctelecoms",
+      "country": "Saudi Arabia",
+      "website": "https://ctelecoms.com.sa",
+      "services": ["IT Solutions", "Cybersecurity", "Cloud Services"],
+      "positioning": "Top-class IT solutions company in KSA",
+      "language_style": "Solution-oriented English",
+      "industry": "IT Services",
+      "size": "Medium"
+    },
+    {
+      "name": "Taqniyat",
+      "country": "Saudi Arabia",
+      "website": "https://taqniyat.com.sa",
+      "services": ["ICT Solutions", "Networking", "Software Solutions", "Digital Transformation"],
+      "positioning": "Innovative company embracing new technological age",
+      "language_style": "Corporate, innovation-focused English",
+      "industry": "ICT Services",
+      "size": "20+ in-house engineers, 200+ experts"
+    },
+    {
+      "name": "Digital Gravity",
+      "country": "UAE",
+      "website": "https://digitalgravity.ae",
+      "services": ["Web Design", "Web Development", "Digital Marketing", "SEO", "E-commerce", "UI/UX Design"],
+      "positioning": "Award-winning next-gen web design Dubai",
+      "language_style": "Award-focused, social-proof-driven English",
+      "industry": "Web Development / Digital Marketing",
+      "size": "10+ years, multi-country"
+    },
+    {
+      "name": "Tequila",
+      "country": "UAE",
+      "website": "https://tequila.ae",
+      "services": ["Brand Strategy", "Logo Design", "Visual Identity", "Web Design", "Digital Marketing"],
+      "positioning": "Dubai's strategic branding & web design agency since 1999",
+      "language_style": "Strategic, diagnostic, confident English",
+      "industry": "Branding / Web Design",
+      "size": "26+ years, 350+ clients"
+    },
+    {
+      "name": "RedSpider Web & Art Design",
+      "country": "UAE",
+      "website": "https://redspider.ae",
+      "services": ["Web Design", "Web Development", "SEO", "PHP Development", "Mobile Apps", "E-commerce", "Branding"],
+      "positioning": "Best web design company in Dubai, 14+ years experience",
+      "language_style": "Trust-focused, review-driven English",
+      "industry": "Web Development",
+      "size": "14+ years, 500+ projects"
+    },
+    {
+      "name": "Neue World",
+      "country": "UAE",
+      "website": "https://neue.world",
+      "services": ["UI/UX Design", "Webflow Development", "Brand Identity", "AI Search Visibility", "Strategy"],
+      "positioning": "Award-winning AI design agency, Webflow Enterprise Partner in MENA",
+      "language_style": "Design-first, sophisticated English",
+      "industry": "UI/UX / Design",
+      "size": "5+ years in UAE"
+    },
+    {
+      "name": "Maxima Group",
+      "country": "UAE",
+      "website": "https://maximagroup.ae",
+      "services": ["Branding", "Visual Identity", "Digital Solutions", "Software Development", "Media Services"],
+      "positioning": "Creative partner and trusted branding agency in Dubai",
+      "language_style": "Creative, strategic English",
+      "industry": "Branding",
+      "size": "Small"
+    },
+    {
+      "name": "Create Group",
+      "country": "UAE",
+      "website": "https://creategroup.me",
+      "services": ["Digital Strategy", "Digital Experience", "Media Distribution", "SEO", "Content Marketing"],
+      "positioning": "Leading digital strategy & communication agency in UAE, KSA & Egypt",
+      "language_style": "Award-winning, nation-builder English",
+      "industry": "Digital Marketing",
+      "size": "Award-winning, multi-region"
+    },
+    {
+      "name": "Right Click",
+      "country": "Saudi Arabia",
+      "website": "https://rightclick.sa",
+      "services": ["Web Development", "Branding", "Content Marketing", "Digital Marketing", "Visual Production"],
+      "positioning": "Leading software development company at digital revolution forefront",
+      "language_style": "Direct, professional English",
+      "industry": "Digital Marketing / Software",
+      "size": "Small"
+    },
+    {
+      "name": "SV Digital",
+      "country": "UAE",
+      "website": "https://svdigital.ae",
+      "services": ["Digital Marketing", "SEO", "PPC", "AI Marketing", "Social Media Marketing"],
+      "positioning": "Result-driven digital marketing agency in UAE",
+      "language_style": "Data-driven, performance-focused English",
+      "industry": "Digital Marketing",
+      "size": "12+ years, 150+ clients"
+    },
+    {
+      "name": "NOB Marketing Solutions",
+      "country": "Saudi Arabia",
+      "website": "https://nob.sa",
+      "services": ["Creative Content", "Influencer Marketing", "Media Buying", "Production", "Brand Strategy"],
+      "positioning": "Full-service marketing agency in Riyadh since 2017",
+      "language_style": "Saudi-first, locally-rooted English/Arabic",
+      "industry": "Digital Marketing",
+      "size": "Est. 2017"
+    },
+    {
+      "name": "Enum Digital",
+      "country": "UAE",
+      "website": "https://enumdigital.com",
+      "services": ["SEO", "PPC", "Content Marketing", "Social Media Management", "CRO"],
+      "positioning": "Top digital marketing agency in Dubai",
+      "language_style": "Comprehensive, tailored English",
+      "industry": "Digital Marketing",
+      "size": "Medium"
+    },
+    {
+      "name": "N24 Creative Agency",
+      "country": "Saudi Arabia",
+      "website": "https://n24.sa",
+      "services": ["Digital Marketing", "Web Design", "Branding"],
+      "positioning": "Digital agency trusted by international brands",
+      "language_style": "Bilingual Arabic-English, trust-focused",
+      "industry": "Digital Marketing",
+      "size": "Small"
+    },
+    {
+      "name": "SCAI (Saudi Company for Artificial Intelligence)",
+      "country": "Saudi Arabia",
+      "website": "https://scai.origin.global",
+      "services": ["AI Solutions", "Computer Vision", "Cloud Computing", "AI Strategy"],
+      "positioning": "PIF-owned national AI champion",
+      "language_style": "National-level, visionary English",
+      "industry": "AI Company",
+      "size": "Large (PIF-backed)"
+    },
+    {
+      "name": "Logic AI",
+      "country": "Saudi Arabia",
+      "website": "https://www.logicai.sa",
+      "services": ["AI Automation", "Computer Vision", "Chatbots", "NLP", "Generative AI", "Data Analytics"],
+      "positioning": "First next-generation AI agency in Saudi Arabia",
+      "language_style": "Innovation-focused bilingual",
+      "industry": "AI Company",
+      "size": "Medium"
+    },
+    {
+      "name": "Intelmatix",
+      "country": "Saudi Arabia",
+      "website": "https://intelmatix.com",
+      "services": ["Enterprise Decision Intelligence", "AI Platform", "Data Analytics"],
+      "positioning": "MIT-founded, enterprise decision intelligence",
+      "language_style": "Academic, enterprise-focused English",
+      "industry": "AI Company",
+      "size": "Founded 2021, Riyadh"
+    },
+    {
+      "name": "Lucidya",
+      "country": "Saudi Arabia",
+      "website": "https://www.lucidya.com",
+      "services": ["Customer Experience Management", "Sentiment Analysis", "Social Media Analytics", "Arabic NLP"],
+      "positioning": "Leader in CX management for Arabic-speaking markets",
+      "language_style": "Technical, Arabic-first English",
+      "industry": "AI / SaaS",
+      "size": "Founded 2016"
+    },
+    {
+      "name": "AZION Labs",
+      "country": "Saudi Arabia",
+      "website": "https://www.azion-labs.com",
+      "services": ["AI Agents", "Arabic AI Benchmarking", "AI Platforms", "Enterprise Solutions"],
+      "positioning": "Production AI agents for Saudi enterprises",
+      "language_style": "Technical, benchmark-driven English",
+      "industry": "AI Company",
+      "size": "Founded 2020, Riyadh"
+    },
+    {
+      "name": "Perception Forge",
+      "country": "Saudi Arabia",
+      "website": "https://perceptionforge.com",
+      "services": ["Custom AI Development", "SaaS Platforms", "AI Strategy Consultation"],
+      "positioning": "Middle East's pioneer AI factory",
+      "language_style": "Visionary, aligned with Vision 2030 English",
+      "industry": "AI Company",
+      "size": "Founded 2025, Riyadh"
+    },
+    {
+      "name": "Wittify AI",
+      "country": "Saudi Arabia",
+      "website": "https://wittify.ai",
+      "services": ["Conversational AI", "Arabic Speech Recognition", "Text-to-Speech", "AI Voice Agents"],
+      "positioning": "Arabic-first conversational AI platform",
+      "language_style": "AI-native, ambitious bilingual",
+      "industry": "AI Company",
+      "size": "Founded 2024, Riyadh/Dubai/Cairo"
+    },
+    {
+      "name": "CodeNinja",
+      "country": "Saudi Arabia",
+      "website": "https://codeninja.sa",
+      "services": ["AI Delivery", "Embedded Teams", "AI Pods", "Global Capability Centers", "Software Engineering"],
+      "positioning": "Full-stack AI delivery firm for Saudi enterprises",
+      "language_style": "Sovereignty-focused, technical English",
+      "industry": "AI / Software Engineering",
+      "size": "240+ organizations served"
+    },
+    {
+      "name": "FastWorks.AI",
+      "country": "Saudi Arabia",
+      "website": "https://fastworks.ai",
+      "services": ["AI Strategy", "AI Engineering", "National AI Platforms", "Digital Government", "AI Training"],
+      "positioning": "National AI capability builder for Saudi Arabia",
+      "language_style": "National-scale, sovereign AI English",
+      "industry": "AI Company",
+      "size": "Enterprise"
+    },
+    {
+      "name": "UX Labs",
+      "country": "Saudi Arabia",
+      "website": "https://ux-labs.com",
+      "services": ["Product Design", "Usability Testing", "UX Audit", "UX Strategy", "Design Systems"],
+      "positioning": "Leading UX agency in Saudi Arabia, UAE & Jordan",
+      "language_style": "User-centric, minimal English",
+      "industry": "UI/UX Agency",
+      "size": "Multi-region"
+    },
+    {
+      "name": "UXBERT Labs",
+      "country": "Saudi Arabia",
+      "website": "https://old.uxbert.com",
+      "services": ["UI/UX Design", "UX Research", "Usability Testing", "Software Development", "UX Training"],
+      "positioning": "Award-winning UI/UX design & development agency, first commercial usability lab in KSA",
+      "language_style": "Passionate, craft-focused English",
+      "industry": "UI/UX Agency",
+      "size": "100+ team, Riyadh/Dubai/London"
+    },
+    {
+      "name": "Wavespace",
+      "country": "UAE",
+      "website": "https://www.wavespace.agency",
+      "services": ["UI/UX Design", "UX Consulting", "UX Audit", "Webflow Development", "Branding"],
+      "positioning": "Dubai's premium UI/UX design & consulting partner",
+      "language_style": "Premium, conversion-focused English",
+      "industry": "UI/UX Agency",
+      "size": "Founded 2019"
+    },
+    {
+      "name": "Aseef",
+      "country": "Saudi Arabia",
+      "website": "https://aseef.co",
+      "services": ["UI/UX Design", "UX Audit", "E-commerce UX", "Bilingual Design"],
+      "positioning": "UI UX design agency built for Saudi users",
+      "language_style": "Riyadh-focused, bilingual English-Arabic",
+      "industry": "UI/UX Agency",
+      "size": "Small"
+    },
+    {
+      "name": "TheFlipDesign",
+      "country": "UAE",
+      "website": "https://theflipdesign.com",
+      "services": ["UI/UX Design", "Growth Marketing", "UX Audits", "SaaS Design", "SEO"],
+      "positioning": "Dubai-based UI/UX & growth agency",
+      "language_style": "Growth-focused, ROI-driven English",
+      "industry": "UI/UX / Growth Marketing",
+      "size": "Small-medium"
+    },
+    {
+      "name": "Lollypop Design",
+      "country": "UAE",
+      "website": "https://lollypop.design",
+      "services": ["UI/UX Design", "Product Design", "Design Systems", "Arabic-first Design"],
+      "positioning": "Leading UI/UX design agency in Dubai & Middle East",
+      "language_style": "Award-winning, Arabic-first English",
+      "industry": "UI/UX Agency",
+      "size": "220+ minds, 4 countries"
+    },
+    {
+      "name": "Mash World",
+      "country": "Jordan",
+      "website": "https://www.mash.world",
+      "services": ["UX Design", "UX Audit", "CRO", "B2B Enterprise Design", "Bilingual Design"],
+      "positioning": "Enterprise UX design for Saudi Arabia and Jordan",
+      "language_style": "Business-strategy, behavioral English",
+      "industry": "UI/UX Agency",
+      "size": "Medium"
+    },
+    {
+      "name": "CPX",
+      "country": "UAE",
+      "website": "https://cpx.net",
+      "services": ["Cybersecurity Consulting", "Managed Security", "Threat Detection", "Incident Response"],
+      "positioning": "Leading cybersecurity company in UAE, securing what's next",
+      "language_style": "Authoritative, national-security English",
+      "industry": "Cybersecurity",
+      "size": "Large"
+    },
+    {
+      "name": "Sirar by stc",
+      "country": "Saudi Arabia",
+      "website": "https://sirar.com.sa",
+      "services": ["Managed Security Services", "Cybersecurity Solutions", "Critical Infrastructure Protection"],
+      "positioning": "Cutting-edge cyber security provider by stc",
+      "language_style": "Corporate, stc-backed English",
+      "industry": "Cybersecurity",
+      "size": "Large (stc subsidiary)"
+    },
+    {
+      "name": "Cyberani by Aramco Digital",
+      "country": "Saudi Arabia",
+      "website": "https://cyberani.sa",
+      "services": ["Cybersecurity Products", "Managed SOC", "IT/OT Security", "Compliance"],
+      "positioning": "Next-gen cybersecurity for industry leaders in KSA",
+      "language_style": "Industrial, authoritative English",
+      "industry": "Cybersecurity",
+      "size": "Large (Aramco-backed)"
+    },
+    {
+      "name": "Cipher (سايڤر)",
+      "country": "Saudi Arabia",
+      "website": "https://cipher.com.sa",
+      "services": ["Cybersecurity", "Digital Transformation", "IT Consulting"],
+      "positioning": "Deloitte Fast 50 Rising Star, representing KSA in ITU",
+      "language_style": "National-pride, achievement English",
+      "industry": "Cybersecurity",
+      "size": "Medium"
+    },
+    {
+      "name": "Paramount Computer Systems",
+      "country": "UAE",
+      "website": "https://paramountassure.com",
+      "services": ["Cybersecurity Solutions", "GRC", "Data Privacy", "Managed Security", "Identity Governance"],
+      "positioning": "Trusted cybersecurity leader in Middle East for 30 years",
+      "language_style": "Experience-backed, compliance English",
+      "industry": "Cybersecurity",
+      "size": "575+ experts, 8 countries"
+    },
+    {
+      "name": "Help AG",
+      "country": "UAE",
+      "website": "https://helpag.com",
+      "services": ["Managed Detection & Response", "Cybersecurity Consulting", "Threat Intelligence"],
+      "positioning": "IDC MarketScape MDR Leader in Middle East",
+      "language_style": "Analyst-recognized, technical English",
+      "industry": "Cybersecurity",
+      "size": "Large"
+    },
+    {
+      "name": "Beyon Cyber",
+      "country": "Bahrain",
+      "website": "https://beyoncyber.com",
+      "services": ["Cybersecurity Solutions", "Managed Security", "AI Security", "Threat Detection"],
+      "positioning": "Fastest-growing cybersecurity company in region (Deloitte)",
+      "language_style": "Award-winning, Bahrain-built English",
+      "industry": "Cybersecurity",
+      "size": "Medium-large"
+    },
+    {
+      "name": "stc Cloud",
+      "country": "Saudi Arabia",
+      "website": "https://cloud.stc.com.sa",
+      "services": ["Cloud Computing", "Data Centers", "IaaS", "PaaS", "Managed Cloud"],
+      "positioning": "Saudi Arabia's best business cloud solution",
+      "language_style": "Reliability-focused, infrastructure English",
+      "industry": "Cloud",
+      "size": "Large (stc subsidiary)"
+    },
+    {
+      "name": "V2 Cloud",
+      "country": "Saudi Arabia",
+      "website": "https://v2.sa",
+      "services": ["Public Cloud", "Private Cloud", "Managed Cloud Services"],
+      "positioning": "First native public cloud in the Middle East",
+      "language_style": "Pioneering, local-cloud English",
+      "industry": "Cloud",
+      "size": "Medium"
+    },
+    {
+      "name": "SITE Cloud",
+      "country": "Saudi Arabia",
+      "website": "https://cloud.site.sa",
+      "services": ["Sovereign Cloud", "Managed Detection & Response", "Data Centers", "Cybersecurity"],
+      "positioning": "Leading sovereign cloud in Saudi Arabia",
+      "language_style": "Sovereign, compliance English",
+      "industry": "Cloud / Cybersecurity",
+      "size": "Large (PIF-backed)"
+    },
+    {
+      "name": "Alibaba Cloud Saudi (SCCC)",
+      "country": "Saudi Arabia",
+      "website": "https://alibabacloud.sa",
+      "services": ["Cloud Computing", "Compute", "Storage", "Network", "Database", "Security"],
+      "positioning": "Saudi-operated cloud, global leader in cloud computing",
+      "language_style": "Partnership, future-ready English",
+      "industry": "Cloud",
+      "size": "Large (STC/SCAI/SITE partnership)"
+    },
+    {
+      "name": "Moro Hub",
+      "country": "UAE",
+      "website": "https://moro-hub.com",
+      "services": ["Data Center", "Cloud Services", "Solar-powered Data Center", "Managed Services"],
+      "positioning": "Leading UAE-based data center and cloud service provider",
+      "language_style": "Sustainable, innovative English",
+      "industry": "Cloud",
+      "size": "Founded 2019, Dubai"
+    },
+    {
+      "name": "Du Tech National Hypercloud",
+      "country": "UAE",
+      "website": "https://www.du.ae/dutech-nationalhypercloud",
+      "services": ["Sovereign Cloud", "Oracle Cloud Infrastructure", "AI Services", "GPU-as-a-Service"],
+      "positioning": "Sovereign-grade cloud for UAE government",
+      "language_style": "Sovereign, enterprise English",
+      "industry": "Cloud",
+      "size": "Large (du/Oracle partnership)"
+    },
+    {
+      "name": "Unifonic",
+      "country": "Saudi Arabia",
+      "website": "https://www.unifonic.com",
+      "services": ["Cloud Communications", "CPaaS", "SMS", "Voice", "Chat"],
+      "positioning": "Leading CPaaS provider in MENA",
+      "language_style": "Technical, platform English",
+      "industry": "SaaS / Cloud Communications",
+      "size": "Founded 2006, $146M funding"
+    },
+    {
+      "name": "Foodics",
+      "country": "Saudi Arabia",
+      "website": "https://www.foodics.com",
+      "services": ["Restaurant Management SaaS", "Payment Tech", "POS System"],
+      "positioning": "Leading restaurant and payment tech supplier in MENA",
+      "language_style": "Industry-specific, functional English",
+      "industry": "SaaS",
+      "size": "Founded 2014, Riyadh, 35+ countries"
+    },
+    {
+      "name": "Tamara",
+      "country": "Saudi Arabia",
+      "website": "https://tamara.co",
+      "services": ["BNPL", "Payments", "Fintech"],
+      "positioning": "Leading BNPL provider in MENA",
+      "language_style": "Fintech, consumer-friendly English",
+      "industry": "Fintech / SaaS",
+      "size": "$2.4B valuation, Riyadh"
+    },
+    {
+      "name": "Salla",
+      "country": "Saudi Arabia",
+      "website": "https://salla.com",
+      "services": ["E-commerce Platform", "Online Store Builder", "SaaS"],
+      "positioning": "Leading Saudi e-commerce platform",
+      "language_style": "Entrepreneur-focused bilingual",
+      "industry": "SaaS / E-commerce",
+      "size": "Founded 2016, $141.3M funding"
+    },
+    {
+      "name": "Mozn",
+      "country": "Saudi Arabia",
+      "website": "https://www.mozn.sa",
+      "services": ["AI Analytics", "Risk Management", "Data Science"],
+      "positioning": "Enterprise AI and analytics platform",
+      "language_style": "Technical, analytics-focused English",
+      "industry": "AI / SaaS",
+      "size": "Founded 2017, $10M funding"
+    },
+    {
+      "name": "Property Finder",
+      "country": "UAE",
+      "website": "https://www.propertyfinder.ae",
+      "services": ["Real Estate Platform", "CRM", "Data Analytics", "Marketing"],
+      "positioning": "Leading real estate portal in MENA",
+      "language_style": "Marketplace, data-driven English",
+      "industry": "SaaS / Real Estate Tech",
+      "size": "Founded 2005, Dubai, $665M funding"
+    },
+    {
+      "name": "Wafeq",
+      "country": "UAE",
+      "website": "https://www.wafeq.com",
+      "services": ["Accounting SaaS", "Financial Management", "Invoicing", "Expense Tracking"],
+      "positioning": "Smart accounting for businesses in MENA",
+      "language_style": "Simple, accessible English",
+      "industry": "SaaS / Fintech",
+      "size": "Founded 2019, Dubai, $10.5M funding"
+    },
+    {
+      "name": "Kitopi",
+      "country": "UAE",
+      "website": "https://www.kitopi.com",
+      "services": ["Cloud Kitchen Platform", "Food Tech SaaS", "Delivery"],
+      "positioning": "World's leading tech-powered food platform",
+      "language_style": "Scale-focused, tech-enabled English",
+      "industry": "SaaS / Food Tech",
+      "size": "Founded 2018, Dubai, unicorn"
+    },
+    {
+      "name": "Grubtech",
+      "country": "UAE",
+      "website": "https://www.grubtech.com",
+      "services": ["SaaS Platform for Cloud Kitchens", "Restaurant Tech", "Order Management"],
+      "positioning": "Industry pioneer in F&B SaaS",
+      "language_style": "Technical, restaurant-focused English",
+      "industry": "SaaS",
+      "size": "Founded 2019, Dubai"
+    },
+    {
+      "name": "Beehive",
+      "country": "UAE",
+      "website": "https://www.beehive.ae",
+      "services": ["Crowdfunding", "SME Lending", "Fintech SaaS"],
+      "positioning": "Region's leading peer-to-peer lending platform",
+      "language_style": "Fintech, SME-focused English",
+      "industry": "Fintech / SaaS",
+      "size": "Founded 2014, Dubai"
+    },
+    {
+      "name": "Ziwo",
+      "country": "UAE",
+      "website": "https://www.ziwo.io",
+      "services": ["Cloud Contact Center", "Voice API", "SaaS Communications"],
+      "positioning": "Middle East's leading cloud contact center platform",
+      "language_style": "Technical, API-focused English",
+      "industry": "SaaS / Communications",
+      "size": "Founded 2019, Dubai"
+    },
+    {
+      "name": "Elm",
+      "country": "Saudi Arabia",
+      "website": "https://www.elm.sa",
+      "services": ["Digital Identity", "e-Government Services", "Cybersecurity", "Smart Solutions"],
+      "positioning": "National digital solutions champion",
+      "language_style": "Government-scale, national English",
+      "industry": "Digital Solutions / SaaS",
+      "size": "Large (publicly listed, $16B market cap)"
+    },
+    {
+      "name": "Lean Technologies",
+      "country": "Saudi Arabia",
+      "website": "https://www.lean.tech",
+      "services": ["Open Banking", "Financial APIs", "Fintech Infrastructure"],
+      "positioning": "Open banking platform for MENA",
+      "language_style": "API-first, developer English",
+      "industry": "Fintech / SaaS",
+      "size": "Founded 2019, Riyadh"
+    },
+    {
+      "name": "Hala",
+      "country": "Saudi Arabia",
+      "website": "https://www.hala.com",
+      "services": ["SME Fintech", "Payments", "Cashier", "Logistics"],
+      "positioning": "Leading fintech for SMEs in MENAP",
+      "language_style": "SME-empowerment English",
+      "industry": "Fintech / SaaS",
+      "size": "Founded 2016, $164.1M funding"
+    },
+    {
+      "name": "Tabby",
+      "country": "UAE",
+      "website": "https://tabby.ai",
+      "services": ["BNPL", "Payments", "Fintech"],
+      "positioning": "Leading BNPL platform in GCC",
+      "language_style": "Consumer fintech, modern English",
+      "industry": "Fintech / SaaS",
+      "size": "$1.9B funding, UAE"
+    },
+    {
+      "name": "Naseej",
+      "country": "Saudi Arabia",
+      "website": "https://www.naseej.com",
+      "services": ["Knowledge Management", "Digital Libraries", "E-learning", "SaaS"],
+      "positioning": "Leading knowledge solutions provider in Middle East",
+      "language_style": "Knowledge-focused, institutional English",
+      "industry": "SaaS / EdTech",
+      "size": "Medium-large"
+    },
+    {
+      "name": "ITWorx",
+      "country": "Egypt",
+      "website": "https://www.itworx.com",
+      "services": ["Enterprise Software", "Digital Transformation", "Cloud", "AI", "Big Data"],
+      "positioning": "Global software professional services, nearly 30 years",
+      "language_style": "Enterprise, global delivery English",
+      "industry": "Software House",
+      "size": "Founded 1994, Cairo"
+    },
+    {
+      "name": "Raya Information Technology",
+      "country": "Egypt",
+      "website": "https://www.rayacorp.com",
+      "services": ["IT Infrastructure", "Application Development", "Cybersecurity", "Managed Services"],
+      "positioning": "Powerhouse in digital transformation",
+      "language_style": "Corporate, diversified English",
+      "industry": "IT Services",
+      "size": "Large (publicly traded)"
+    },
+    {
+      "name": "Enozom Software",
+      "country": "Egypt",
+      "website": "https://enozom.com",
+      "services": ["Custom Software Development", "Mobile Apps", "Web Development", "AI"],
+      "positioning": "Innovation, quality, and growth in software",
+      "language_style": "Quality-focused English",
+      "industry": "Software House",
+      "size": "Based in Alexandria"
+    },
+    {
+      "name": "Giza Systems",
+      "country": "Egypt",
+      "website": "https://www.gizasystems.com",
+      "services": ["Digital Transformation", "Systems Integration", "Smart Cities", "Telecom"],
+      "positioning": "Large-scale digital transformation for telecom, utilities, smart cities",
+      "language_style": "Industrial-scale, sector-specific English",
+      "industry": "Systems Integration",
+      "size": "Large"
+    },
+    {
+      "name": "Sumerge",
+      "country": "Egypt",
+      "website": "https://www.sumerge.com",
+      "services": ["Cloud Services", "Enterprise Apps", "Systems Modernization"],
+      "positioning": "Cloud and enterprise modernization specialist",
+      "language_style": "Modernization-focused English",
+      "industry": "IT Services",
+      "size": "Medium"
+    },
+    {
+      "name": "Link Development",
+      "country": "Egypt",
+      "website": "https://www.linkdev.com",
+      "services": ["Enterprise Software", "Cloud", "Analytics", "Platform Integration"],
+      "positioning": "Big regional player in enterprise software",
+      "language_style": "Enterprise, platform English",
+      "industry": "Software House",
+      "size": "Large"
+    },
+    {
+      "name": "Egypt Software",
+      "country": "Egypt",
+      "website": "https://www.egypt-software.com",
+      "services": ["ERP", "Accounting Software", "Business Automation", "Enterprise Solutions"],
+      "positioning": "Egypt's leading enterprise solution since 2005",
+      "language_style": "Industry-specific, trust English",
+      "industry": "Enterprise Software",
+      "size": "3000+ clients"
+    },
+    {
+      "name": "CairoIT Solutions",
+      "country": "Egypt",
+      "website": "https://cairoit.com",
+      "services": ["Enterprise Software", "E-learning", "Gamification", "Systems Integration"],
+      "positioning": "Cairo-headquartered technology partner for long-arc programs",
+      "language_style": "Long-term partnership, institutional English",
+      "industry": "Software House",
+      "size": "Est. 2002, Cairo/Abu Dhabi/Dubai/Riyadh"
+    },
+    {
+      "name": "Inova",
+      "country": "Egypt",
+      "website": "https://inovaeg.com",
+      "services": ["Mobile App Development", "iOS Development", "Android Development", "Web Development", "Game Development"],
+      "positioning": "Mobile app and web development company since 2011",
+      "language_style": "Technical, capability English",
+      "industry": "Mobile App",
+      "size": "Founded 2011, Alexandria/Riyadh/Abu Dhabi"
+    },
+    {
+      "name": "Paratune",
+      "country": "Jordan",
+      "website": "https://www.paratune.com",
+      "services": ["Software Development", "Mobile Apps", "Websites", "ERP", "Odoo", "Digital Marketing"],
+      "positioning": "Jordan's leading software development and digital transformation company",
+      "language_style": "Full-service, capability English",
+      "industry": "Software House",
+      "size": "Amman-based"
+    },
+    {
+      "name": "Codexal",
+      "country": "Jordan",
+      "website": "https://codexal.co",
+      "services": ["AI", "Custom Software", "Digital Transformation", "DevOps"],
+      "positioning": "Modern, agile software partner",
+      "language_style": "Technical, startup English",
+      "industry": "Software House",
+      "size": "Amman-based"
+    },
+    {
+      "name": "STS (Specialized Technical Services)",
+      "country": "Jordan",
+      "website": "https://www.sts.jo",
+      "services": ["Government IT Solutions", "Banking Infrastructure", "Hardware Procurement", "Digital Transformation"],
+      "positioning": "Giant in Jordanian market, government and banking specialist",
+      "language_style": "Enterprise, infrastructure English",
+      "industry": "IT Services",
+      "size": "Large"
+    },
+    {
+      "name": "Estarta Solutions",
+      "country": "Jordan",
+      "website": "https://www.estarta.com",
+      "services": ["Network Engineering", "Cisco Support", "IT Services", "TAC Operations"],
+      "positioning": "Global network engineering, Cisco partner",
+      "language_style": "Technical, global delivery English",
+      "industry": "IT Services",
+      "size": "Large (Cisco partnership)"
+    },
+    {
+      "name": "ProgressSoft Corporation",
+      "country": "Jordan",
+      "website": "https://www.progressoft.com",
+      "services": ["Payment Solutions", "Fintech Software", "Digital Banking", "Check Truncation"],
+      "positioning": "Leading fintech software provider in MENA",
+      "language_style": "Fintech, technical English",
+      "industry": "Fintech Software",
+      "size": "Amman-based, global"
+    },
+    {
+      "name": "Optimiza",
+      "country": "Jordan",
+      "website": "https://www.optimiza.com",
+      "services": ["ERP Systems", "Healthcare Management", "Insurance Platforms", "System Integration"],
+      "positioning": "Mega-project specialist in ERP and healthcare systems",
+      "language_style": "Enterprise, project English",
+      "industry": "Enterprise Software",
+      "size": "Public shareholding, large"
+    },
+    {
+      "name": "AZ Software",
+      "country": "Jordan",
+      "website": "https://azsoftware.me",
+      "services": ["Enterprise Software", "DMS", "Workflow Automation", "BI Dashboards"],
+      "positioning": "Enterprise-grade solutions for banking, healthcare, government",
+      "language_style": "Technical, sector-specific English",
+      "industry": "Enterprise Software",
+      "size": "Founded 2009, Amman"
+    },
+    {
+      "name": "Vardot",
+      "country": "Jordan",
+      "website": "https://www.vardot.com",
+      "services": ["Web Development", "Drupal Development", "Digital Strategy", "UX/UI"],
+      "positioning": "Digital solutions for global impact",
+      "language_style": "Digital-first, open-source English",
+      "industry": "Web Development",
+      "size": "Amman-based, global"
+    },
+    {
+      "name": "KuwaitNet",
+      "country": "Kuwait",
+      "website": "https://www.kuwaitnet.net",
+      "services": ["Cloud Solutions", "Web Development", "Cybersecurity", "E-commerce", "Managed IT"],
+      "positioning": "Trusted enterprise-grade cloud solutions in Kuwait",
+      "language_style": "Enterprise, trusted English",
+      "industry": "IT Services",
+      "size": "100+ employees, founded 1997"
+    },
+    {
+      "name": "Burgan Systems",
+      "country": "Kuwait",
+      "website": "https://burgan-systems.com",
+      "services": ["HRMS", "Accounting Software", "Investment Management", "Real Estate Management", "Mobile Apps"],
+      "positioning": "Technology pioneers in Kuwait and GCC",
+      "language_style": "Product-focused, trust English",
+      "industry": "Software House",
+      "size": "30+ years, 500+ companies"
+    },
+    {
+      "name": "Gulf IT Innovations",
+      "country": "Kuwait",
+      "website": null,
+      "services": ["Custom Software", "Mobile Apps", "Cloud Migration", "E-commerce", "IT Consulting"],
+      "positioning": "Fast, scalable digital solutions for Kuwait's business landscape",
+      "language_style": "Solution-focused English",
+      "industry": "Software House",
+      "size": "80+ employees"
+    },
+    {
+      "name": "Nizek",
+      "country": "Kuwait",
+      "website": null,
+      "services": ["Mobile App Development", "Web Development", "Enterprise Software", "Custom Solutions"],
+      "positioning": "Cutting-edge software development company",
+      "language_style": "Innovation English",
+      "industry": "Software House",
+      "size": "Medium"
+    },
+    {
+      "name": "Focus Softnet Kuwait",
+      "country": "Kuwait",
+      "website": null,
+      "services": ["ERP", "CRM", "Cloud Computing", "Enterprise Software"],
+      "positioning": "Leading enterprise software solutions provider",
+      "language_style": "Enterprise, product English",
+      "industry": "Enterprise Software",
+      "size": "Medium"
+    },
+    {
+      "name": "Green Torque",
+      "country": "Kuwait",
+      "website": null,
+      "services": ["Custom Software", "Automation Systems", "IT Services"],
+      "positioning": "Comprehensive IT services in Kuwait",
+      "language_style": "Service-focused English",
+      "industry": "IT Services",
+      "size": "Medium"
+    },
+    {
+      "name": "Meeza",
+      "country": "Qatar",
+      "website": null,
+      "services": ["IT Services", "Cloud Solutions", "Managed Services", "Data Centers"],
+      "positioning": "Top IT service provider in Qatar",
+      "language_style": "Enterprise, Qatari English",
+      "industry": "IT Services",
+      "size": "Large"
+    },
+    {
+      "name": "Malomatia",
+      "country": "Qatar",
+      "website": null,
+      "services": ["Digital Transformation", "IT Consulting", "Software Development"],
+      "positioning": "Qatar-based technology solutions provider",
+      "language_style": "Government-adjacent English",
+      "industry": "IT Services",
+      "size": "Large"
+    },
+    {
+      "name": "Qatar IT Solutions",
+      "country": "Qatar",
+      "website": null,
+      "services": ["IT Consulting", "Software Development", "Cloud Services", "IT Infrastructure"],
+      "positioning": "Premier IT consulting and services company in Qatar",
+      "language_style": "Consulting English",
+      "industry": "IT Services",
+      "size": "Medium"
+    },
+    {
+      "name": "Qatar Datamation Systems (QDS)",
+      "country": "Qatar",
+      "website": null,
+      "services": ["Software Development", "IT Solutions", "System Integration"],
+      "positioning": "Established IT solutions provider in Qatar",
+      "language_style": "Professional English",
+      "industry": "IT Services",
+      "size": "Medium"
+    },
+    {
+      "name": "Nujoom Digital",
+      "country": "Bahrain",
+      "website": "https://nujoom.digital",
+      "services": ["Software Engineering", "Digital Transformation", "Cloud Solutions", "Tech Consulting"],
+      "positioning": "Bespoke software engineering in the GCC",
+      "language_style": "Strategic, GCC-market English",
+      "industry": "Software House",
+      "size": "Bahrain-based, serving GCC"
+    },
+    {
+      "name": "Brand Lounge",
+      "country": "UAE",
+      "website": "https://brandloungeme.com",
+      "services": ["Brand Strategy", "Design", "Brand Consulting", "Innovation", "Culture"],
+      "positioning": "Strategic brand consultancy in Dubai & Riyadh",
+      "language_style": "Strategic, academic English",
+      "industry": "Branding",
+      "size": "Dubai/Riyadh"
+    },
+    {
+      "name": "Steps",
+      "country": "Saudi Arabia",
+      "website": "https://steps-ksa.com",
+      "services": ["Brand Strategy", "Visual Identity", "Messaging", "Naming", "Brand Build"],
+      "positioning": "Branding agency building credible brands in Saudi",
+      "language_style": "Arabic-first, strategy-heavy bilingual",
+      "industry": "Branding",
+      "size": "Riyadh-based"
+    },
+    {
+      "name": "Halbach",
+      "country": "Saudi Arabia",
+      "website": "https://halbach.sa",
+      "services": ["Brand Design", "Strategy", "Product Design", "Architecture", "Visual Identity"],
+      "positioning": "Award-winning, meaningful and transformative design for 25+ years",
+      "language_style": "Sophisticated, design-excellence English",
+      "industry": "Branding / Design",
+      "size": "25+ years in KSA"
+    },
+    {
+      "name": "Icon Branding Studio",
+      "country": "UAE",
+      "website": "https://iconbrandingstudio.com",
+      "services": ["Brand Strategy", "Brand Architecture", "Visual Identity", "Verbal Identity", "Brand Experience"],
+      "positioning": "Best branding agency in Dubai, changing how brands act",
+      "language_style": "Strategic, future-ready English",
+      "industry": "Branding",
+      "size": "Medium"
+    },
+    {
+      "name": "Evox",
+      "country": "UAE",
+      "website": "https://www.evox.ae",
+      "services": ["Branding", "Web Design", "Digital Marketing", "Logo Design", "Advertising"],
+      "positioning": "Best branding agency in Dubai, creative branding company",
+      "language_style": "Creative, full-service English",
+      "industry": "Branding",
+      "size": "Medium"
+    },
+    {
+      "name": "Origin",
+      "country": "Saudi Arabia",
+      "website": "https://origin.global",
+      "services": ["Brand Strategy", "Visual Identity", "Web Development", "UX/UI Design", "Digital Marketing"],
+      "positioning": "Award-winning agency, trusted by NEOM, CBUAE, Saudia, PIF",
+      "language_style": "Enterprise, high-trust English",
+      "industry": "Branding / Digital",
+      "size": "51-200 members, multi-region"
+    },
+    {
+      "name": "Brandemic",
+      "country": "UAE",
+      "website": "https://www.brandemic.ae",
+      "services": ["Brand Strategy", "Brand Identity", "Digital Marketing", "Web Design"],
+      "positioning": "Best overall branding agency in Dubai for strategy-led work",
+      "language_style": "Strategic, market-leading English",
+      "industry": "Branding",
+      "size": "Dubai-based"
+    },
+    {
+      "name": "Inneraktive",
+      "country": "UAE",
+      "website": "https://inneraktive.com",
+      "services": ["Web Development", "Digital Products", "UX Design", "AI Automation", "Webflow"],
+      "positioning": "Dubai's conversion-first digital agency",
+      "language_style": "Conversion-focused, tech English",
+      "industry": "Web Development",
+      "size": "100+ brands"
+    },
+    {
+      "name": "Control Shift",
+      "country": "UAE",
+      "website": "https://controlshift.ae",
+      "services": ["Mobile App Development", "iOS Development", "Android Development", "MVP Development"],
+      "positioning": "Dubai's leading app developers",
+      "language_style": "Award-focused, app-first English",
+      "industry": "Mobile App",
+      "size": "200+ clients, 15+ awards"
+    },
+    {
+      "name": "Daiyra 360",
+      "country": "UAE",
+      "website": "https://daiyra.ae",
+      "services": ["Mobile App Development", "iOS", "Android", "Cross-platform", "Web Development"],
+      "positioning": "Dubai's trusted mobile app development partner",
+      "language_style": "Trust-focused, numbers-driven English",
+      "industry": "Mobile App",
+      "size": "500+ apps, 12+ years, 50+ developers"
+    },
+    {
+      "name": "MVP Apps",
+      "country": "UAE",
+      "website": "https://mvp-apps.com",
+      "services": ["Mobile App Development", "Web Development", "AI Solutions", "Product Design"],
+      "positioning": "Turning ideas into scalable digital products",
+      "language_style": "Impact-focused, project English",
+      "industry": "Mobile App",
+      "size": "Medium"
+    },
+    {
+      "name": "Alpha Apps",
+      "country": "UAE",
+      "website": "https://alpha-apps.ae",
+      "services": ["Software Development", "Mobile Apps", "Digital Products", "Strategic Consulting"],
+      "positioning": "Building digital products for the Middle East",
+      "language_style": "Regional, impact-driven English",
+      "industry": "Software House",
+      "size": "73+ team, 93+ clients, 8+ years"
+    },
+    {
+      "name": "Mobcoder Saudi Co.",
+      "country": "Saudi Arabia",
+      "website": "https://mobcoder.sa",
+      "services": ["AI Solutions", "Mobile App Development", "Web Development", "UI/UX Design", "IoT"],
+      "positioning": "AI, mobile & web app development company in Saudi Arabia",
+      "language_style": "AI-first, bilingual English",
+      "industry": "Software House / AI",
+      "size": "250+ projects, 150+ clients"
+    },
+    {
+      "name": "Numrah Group",
+      "country": "Saudi Arabia",
+      "website": "https://numrah.com",
+      "services": ["Mobile App Publishing", "Game Development", "Venture Investment", "Acquisitions"],
+      "positioning": "Global technology company redefining mobile",
+      "language_style": "Global, investor English",
+      "industry": "Mobile / Gaming",
+      "size": "Founded 2016, Jeddah, 50M+ users"
+    },
+    {
+      "name": "Junkies Coder",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Mobile App Development", "AI/ML", "Blockchain", "Web Development"],
+      "positioning": "Affordable, scalable mobile solutions in Jeddah",
+      "language_style": "Developer-focused English",
+      "industry": "Mobile App",
+      "size": "Jeddah-based"
+    },
+    {
+      "name": "Golden Logic Co",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["AI Solutions", "Software Development", "Aviation AI", "Intelligent Automation"],
+      "positioning": "AI-powered software for aviation and industry",
+      "language_style": "Niche, technical English",
+      "industry": "AI / Software",
+      "size": "Medium"
+    },
+    {
+      "name": "Creative Solution",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["AI Integration", "Point-of-Sale", "E-learning", "Retail AI"],
+      "positioning": "AI-driven retail and education solutions",
+      "language_style": "Sector-specific English",
+      "industry": "AI / Retail Tech",
+      "size": "Riyadh-based"
+    },
+    {
+      "name": "Intouch MENA",
+      "country": "Saudi Arabia",
+      "website": "https://www.intouchmena.com",
+      "services": ["AI Marketing", "Recommendation Engines", "Audience Segmentation", "Campaign Optimization"],
+      "positioning": "AI-powered digital marketing for MENA",
+      "language_style": "Marketing-tech English",
+      "industry": "AI / Digital Marketing",
+      "size": "Medium"
+    },
+    {
+      "name": "Hashtag Social Media Agency",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Social Media Marketing", "Content Creation", "Digital Strategy"],
+      "positioning": "Social media expert for Saudi brands",
+      "language_style": "Social-first English",
+      "industry": "Digital Marketing",
+      "size": "Small"
+    },
+    {
+      "name": "Yellostack",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Digital Marketing", "Web Development", "Mobile Apps", "Branding"],
+      "positioning": "Full-service digital solutions",
+      "language_style": "Service-focused English",
+      "industry": "Digital Marketing",
+      "size": "Medium"
+    },
+    {
+      "name": "Ikana Business Solutions",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Digital Marketing", "Business Consulting", "Web Development"],
+      "positioning": "Business-driven digital marketing",
+      "language_style": "Business, consulting English",
+      "industry": "Digital Marketing",
+      "size": "Medium"
+    },
+    {
+      "name": "StandardTouch",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Web Design", "Digital Marketing", "SEO", "Branding"],
+      "positioning": "Web design and digital marketing company in Saudi",
+      "language_style": "Design-focused English",
+      "industry": "Digital Marketing",
+      "size": "Medium"
+    },
+    {
+      "name": "Entshar Technology",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Digital Marketing", "SEO", "Web Development", "Social Media"],
+      "positioning": "Digital marketing technology company",
+      "language_style": "Tech-focused English",
+      "industry": "Digital Marketing",
+      "size": "Medium"
+    },
+    {
+      "name": "Above Limits",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Digital Marketing", "Creative Agency", "Web Development", "Branding"],
+      "positioning": "No limits creative digital marketing agency",
+      "language_style": "Creative, ambitious English",
+      "industry": "Digital Marketing",
+      "size": "51-200 members (SA/UAE/Egypt)"
+    },
+    {
+      "name": "Bytes Future",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Digital Marketing", "SEO", "Web Development", "Social Media"],
+      "positioning": "Future-focused digital marketing",
+      "language_style": "Innovation English",
+      "industry": "Digital Marketing",
+      "size": "Medium"
+    },
+    {
+      "name": "Nexa Digital",
+      "country": "UAE",
+      "website": null,
+      "services": ["Inbound Marketing", "SEO", "HubSpot CRM", "Lead Generation"],
+      "positioning": "Pioneer in digital marketing since 2005 in Dubai",
+      "language_style": "Inbound, results English",
+      "industry": "Digital Marketing",
+      "size": "Founded 2005"
+    },
+    {
+      "name": "Chain Reaction",
+      "country": "UAE",
+      "website": null,
+      "services": ["SEO", "Performance Marketing", "Analytics", "AI Marketing"],
+      "positioning": "Award-winning digital agency integrating AI into strategy",
+      "language_style": "AI-forward, performance English",
+      "industry": "Digital Marketing",
+      "size": "Dubai/Amman/Riyadh"
+    },
+    {
+      "name": "Traffic Digital",
+      "country": "UAE",
+      "website": null,
+      "services": ["E-commerce Development", "UX Design", "Digital Transformation", "Integrated Marketing"],
+      "positioning": "Largest independent digital agency in the Middle East",
+      "language_style": "Scale, independent English",
+      "industry": "Digital Marketing",
+      "size": "150+ professionals, multi-GCC"
+    },
+    {
+      "name": "Bruce Clay MENA",
+      "country": "UAE",
+      "website": null,
+      "services": ["SEO Audits", "Technical SEO", "Content Marketing", "SEO Consulting"],
+      "positioning": "Global SEO expertise for MENA market",
+      "language_style": "Authoritative, global English",
+      "industry": "SEO",
+      "size": "25+ years global"
+    },
+    {
+      "name": "SEO Tech Experts",
+      "country": "UAE",
+      "website": null,
+      "services": ["SEO", "PPC", "Social Media", "Content", "Video Marketing"],
+      "positioning": "Dubai-based full-service digital growth agency",
+      "language_style": "Growth-focused English",
+      "industry": "SEO / Digital Marketing",
+      "size": "Medium"
+    },
+    {
+      "name": "United SEO",
+      "country": "UAE",
+      "website": null,
+      "services": ["SEO", "Web Development", "Content Marketing", "Social Media Marketing"],
+      "positioning": "Premier full-service SEO agency in UAE and Riyadh",
+      "language_style": "Client-centric, multilingual English",
+      "industry": "SEO",
+      "size": "400+ businesses served"
+    },
+    {
+      "name": "Spiral SEO",
+      "country": "UAE",
+      "website": "https://spiralseo.com",
+      "services": ["SEO", "Web Development", "GEO", "AEO", "Local SEO", "Bilingual SEO"],
+      "positioning": "Web development & SEO agency in the UAE",
+      "language_style": "AI-search-ready, technical English",
+      "industry": "SEO",
+      "size": "Multi-country"
+    },
+    {
+      "name": "SEO Specialist UAE",
+      "country": "UAE",
+      "website": "https://seospecialist.ae",
+      "services": ["Technical SEO", "Local SEO", "Content SEO", "SEO Consulting"],
+      "positioning": "Award-winning SEO experts in Dubai",
+      "language_style": "Performance, award-driven English",
+      "industry": "SEO",
+      "size": "254+ campaigns, 11+ years"
+    },
+    {
+      "name": "Riyadh Digitals",
+      "country": "Saudi Arabia",
+      "website": "https://digitalmarketing.sa",
+      "services": ["SEO", "Google Ads", "Social Media", "Web Design", "Digital Marketing"],
+      "positioning": "Best digital marketing agency in Saudi Arabia",
+      "language_style": "Saudi-localized, bilingual English-Arabic",
+      "industry": "Digital Marketing / SEO",
+      "size": "10+ years, 250+ projects"
+    },
+    {
+      "name": "Voctos",
+      "country": "Egypt",
+      "website": "https://voctos.net",
+      "services": ["SEO", "AEO", "GEO", "Technical SEO", "Content Strategy"],
+      "positioning": "Best overall SEO agency for Egypt & MENA",
+      "language_style": "Technical, data-driven English",
+      "industry": "SEO",
+      "size": "Medium"
+    },
+    {
+      "name": "EKO Innovations",
+      "country": "Egypt",
+      "website": "https://ekoinnovations.com",
+      "services": ["360 Marketing", "SEO", "Performance Marketing", "Digital Strategy", "AI Marketing"],
+      "positioning": "Top 360 marketing agency in MENA",
+      "language_style": "Performance, ROAS-driven English",
+      "industry": "Digital Marketing",
+      "size": "Cairo + Delaware"
+    },
+    {
+      "name": "Titan Digital UAE",
+      "country": "UAE",
+      "website": "https://titandigitaluae.com",
+      "services": ["Technical SEO", "E-commerce SEO", "Local SEO", "GEO", "AEO", "Bilingual SEO"],
+      "positioning": "Commanding page one of Google with mathematical system",
+      "language_style": "Mathematical, systematic English",
+      "industry": "SEO",
+      "size": "25+ years, multi-emirate"
+    },
+    {
+      "name": "Check Point Middle East",
+      "country": "UAE",
+      "website": "https://www.checkpoint.com",
+      "services": ["Cybersecurity", "Network Security", "Cloud Security", "Endpoint Security"],
+      "positioning": "Leading global cybersecurity provider in Middle East",
+      "language_style": "Global-authority English",
+      "industry": "Cybersecurity",
+      "size": "Public company, Dubai HQ"
+    },
+    {
+      "name": "ESET Middle East",
+      "country": "UAE",
+      "website": "https://eset.com/me",
+      "services": ["Antivirus", "Internet Security", "Endpoint Protection", "Cybersecurity"],
+      "positioning": "30+ years of global cybersecurity excellence",
+      "language_style": "Trusted, award-winning English",
+      "industry": "Cybersecurity",
+      "size": "Global, EU R&D"
+    },
+    {
+      "name": "DXC Technology Middle East",
+      "country": "UAE",
+      "website": "https://www.dxc.com",
+      "services": ["IT Services", "Cloud", "Cybersecurity", "Digital Transformation"],
+      "positioning": "Global IT services leader in Middle East",
+      "language_style": "Corporate, global English",
+      "industry": "IT Services",
+      "size": "Large, global"
+    },
+    {
+      "name": "Tkxel",
+      "country": "Egypt",
+      "website": "https://tkxel.com",
+      "services": ["Custom Software", "AI", "Data Engineering", "Cloud Engineering", "Dedicated Teams"],
+      "positioning": "Full-product development and AI engineering",
+      "language_style": "Product, engineering English",
+      "industry": "Software House",
+      "size": "Global, Egypt presence"
+    },
+    {
+      "name": "Evolvice GmbH",
+      "country": "Egypt",
+      "website": null,
+      "services": ["Staff Augmentation", "Nearshore Development", "Web Development"],
+      "positioning": "Responsive, quality-driven nearshore partner",
+      "language_style": "Service, quality English",
+      "industry": "Software House",
+      "size": "Medium"
+    },
+    {
+      "name": "Pharos Solutions",
+      "country": "Egypt",
+      "website": null,
+      "services": ["Software Development", "Project Management", "Mid-market Solutions"],
+      "positioning": "Reliable, professional mid-market and enterprise work",
+      "language_style": "Professional, delivery English",
+      "industry": "Software House",
+      "size": "Medium"
+    },
+    {
+      "name": "Integrant",
+      "country": "Jordan",
+      "website": null,
+      "services": ["Custom Software", "Dedicated Teams", ".NET Development", "Quality Assurance"],
+      "positioning": "Offshore engineering with onshore quality",
+      "language_style": "Quality, American-market English",
+      "industry": "Software House",
+      "size": "San Diego HQ, Amman dev center"
+    },
+    {
+      "name": "Bright Creations",
+      "country": "Egypt",
+      "website": null,
+      "services": ["Software Development", "Digital Platforms", "Mobile Apps", "Enterprise Systems"],
+      "positioning": "Innovative, human-centric approach to technology",
+      "language_style": "Creative, human-first English",
+      "industry": "Software House",
+      "size": "Founded 2008, Cairo"
+    },
+    {
+      "name": "Raqamyah",
+      "country": "Egypt",
+      "website": null,
+      "services": ["Fintech Software", "Digital Finance", "Software Development"],
+      "positioning": "Empowering digital finance through technology",
+      "language_style": "Fintech-focused English",
+      "industry": "Fintech / Software",
+      "size": "Cairo-based"
+    },
+    {
+      "name": "Hyper Media Labs",
+      "country": "Egypt",
+      "website": null,
+      "services": ["Web Development", "MVP Development", "Digital Products"],
+      "positioning": "Fast-moving Cairo firm for quick delivery",
+      "language_style": "Agile, startup English",
+      "industry": "Web Development",
+      "size": "Small, Cairo"
+    },
+    {
+      "name": "Erada",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Digital Health", "Health Tech SaaS"],
+      "positioning": "Digital health platform for Saudi healthcare",
+      "language_style": "Health-tech, regulatory English",
+      "industry": "SaaS / Health Tech",
+      "size": "Medium"
+    },
+    {
+      "name": "Syarah",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Online Car Marketplace", "Financing", "Maintenance Services"],
+      "positioning": "Leading online car-selling marketplace in Saudi",
+      "language_style": "Consumer marketplace English",
+      "industry": "SaaS / Automotive",
+      "size": "Riyadh-based"
+    },
+    {
+      "name": "Lendo",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Debt Crowdfunding", "Fintech SaaS", "SME Lending"],
+      "positioning": "Leading debt crowdfunding platform in Saudi",
+      "language_style": "Fintech, investment English",
+      "industry": "Fintech / SaaS",
+      "size": "$775.2M funding, Riyadh"
+    },
+    {
+      "name": "Mr Mandoob",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Delivery Platform", "Dark Stores", "Logistics SaaS"],
+      "positioning": "State-of-the-art delivery platform in Saudi",
+      "language_style": "Logistics, consumer English",
+      "industry": "SaaS / Logistics",
+      "size": "Riyadh-based"
+    },
+    {
+      "name": "RedBox",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Smart Lockers", "Last-mile Delivery SaaS", "Parcel Management"],
+      "positioning": "Provider of smart locker access points",
+      "language_style": "Logistics, IoT English",
+      "industry": "SaaS / Logistics",
+      "size": "Founded 2019, Riyadh"
+    },
+    {
+      "name": "Spare",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Fintech", "Payments", "SaaS"],
+      "positioning": "Financial technology for Saudi businesses",
+      "language_style": "Fintech English",
+      "industry": "Fintech / SaaS",
+      "size": "Founded 2018, $8M funding"
+    },
+    {
+      "name": "Quantum Platform",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["AI Platform", "Data Analytics", "Business Intelligence"],
+      "positioning": "AI-powered business intelligence platform",
+      "language_style": "Technical, AI English",
+      "industry": "AI / SaaS",
+      "size": "Founded 2018, $9.6M funding"
+    },
+    {
+      "name": "DOO",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Analytics", "Data Insights", "Business SaaS"],
+      "positioning": "Analytics platform for Saudi enterprises",
+      "language_style": "Data-focused English",
+      "industry": "SaaS / Analytics",
+      "size": "Founded 2024, $1.7M funding"
+    },
+    {
+      "name": "Newera.ai",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Generative AI", "Enterprise AI", "Agentic AI", "AI Tools"],
+      "positioning": "Generative AI solutions for Saudi enterprises",
+      "language_style": "Enterprise AI, forward-looking English",
+      "industry": "AI Company",
+      "size": "Founded 2023, $2.1M funding"
+    },
+    {
+      "name": "Infoarc",
+      "country": "UAE",
+      "website": null,
+      "services": ["AI Consulting", "Data Analytics", "Digital Transformation"],
+      "positioning": "AI company in Dubai",
+      "language_style": "Consulting English",
+      "industry": "AI Company",
+      "size": "Dubai-based"
+    },
+    {
+      "name": "Clevva",
+      "country": "UAE",
+      "website": null,
+      "services": ["AI Strategy", "AI Implementation", "Data Science"],
+      "positioning": "AI implementation partner",
+      "language_style": "AI-strategy English",
+      "industry": "AI Company",
+      "size": "Medium"
+    },
+    {
+      "name": "DevisionX",
+      "country": "UAE",
+      "website": null,
+      "services": ["Computer Vision", "AI Development", "Deep Learning"],
+      "positioning": "Computer vision and deep learning specialist",
+      "language_style": "Technical, deep-tech English",
+      "industry": "AI Company",
+      "size": "Medium"
+    },
+    {
+      "name": "Avey",
+      "country": "UAE",
+      "website": null,
+      "services": ["AI Platform", "Business Automation", "Predictive Analytics"],
+      "positioning": "AI-powered business automation",
+      "language_style": "Automation, efficiency English",
+      "industry": "AI Company",
+      "size": "Medium"
+    },
+    {
+      "name": "Digital Energy",
+      "country": "UAE",
+      "website": null,
+      "services": ["AI for Energy", "Predictive Maintenance", "Industrial AI"],
+      "positioning": "AI solutions for energy sector",
+      "language_style": "Industrial, energy English",
+      "industry": "AI / Energy Tech",
+      "size": "Medium"
+    },
+    {
+      "name": "Astra Trio",
+      "country": "UAE",
+      "website": "https://www.astratrio.com",
+      "services": ["Web Design", "UI/UX Design", "Webflow Development", "App Design", "Bilingual Design"],
+      "positioning": "App & web design for UAE + Saudi teams",
+      "language_style": "Bilingual, growth-focused English",
+      "industry": "UI/UX / Web Design",
+      "size": "Dubai/Riyadh"
+    },
+    {
+      "name": "Morrow Studio",
+      "country": "UAE",
+      "website": "https://madebymorrow.com",
+      "services": ["Web Design", "Web Development", "SEO", "Branding", "UX Design"],
+      "positioning": "Web design company in Dubai driving real business results",
+      "language_style": "Strategic, results-oriented English",
+      "industry": "Web Design / Branding",
+      "size": "Dubai-based"
+    },
+    {
+      "name": "Blink22",
+      "country": "UAE",
+      "website": null,
+      "services": ["Mobile App Development", "UI/UX Design", "Web Development", "SaaS"],
+      "positioning": "Premium application development in Dubai",
+      "language_style": "Technical, communication-focused English",
+      "industry": "Software House",
+      "size": "Dubai-based"
+    },
+    {
+      "name": "Designocracy",
+      "country": "UAE",
+      "website": null,
+      "services": ["UI/UX Design", "Web Design", "Branding", "Product Design"],
+      "positioning": "Design-first digital agency",
+      "language_style": "Design-specialist English",
+      "industry": "UI/UX",
+      "size": "Dubai-based"
+    },
+    {
+      "name": "Synergy Labs",
+      "country": "UAE",
+      "website": null,
+      "services": ["Mobile Development", "Web Development", "AI", "Product Development"],
+      "positioning": "Full-service digital product agency",
+      "language_style": "Product, scalable English",
+      "industry": "Software House",
+      "size": "Dubai-based"
+    },
+    {
+      "name": "Advance Agency (مؤسسة تقدم)",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Digital Marketing", "Web Development", "Branding", "Media Buying"],
+      "positioning": "Saudi digital marketing company",
+      "language_style": "Bilingual, local English",
+      "industry": "Digital Marketing",
+      "size": "Small"
+    },
+    {
+      "name": "Whizkey",
+      "country": "UAE",
+      "website": null,
+      "services": ["AI Software Development", "Custom ERP", "Web & App Development", "Automation", "RPA"],
+      "positioning": "Building intelligent, scalable software ecosystems",
+      "language_style": "AI-forward, enterprise English",
+      "industry": "Software House",
+      "size": "120+ employees, founded 2018"
+    },
+    {
+      "name": "Cadena Solutions",
+      "country": "UAE",
+      "website": null,
+      "services": ["AI Software", "Enterprise Sales Platforms", "Fintech Systems", "PayTech", "Data Automation"],
+      "positioning": "Redefining enterprise operations with intelligent software",
+      "language_style": "AI-enterprise English",
+      "industry": "Enterprise Software",
+      "size": "350+ employees, founded 2017"
+    },
+    {
+      "name": "Design Master",
+      "country": "Kuwait",
+      "website": null,
+      "services": ["Web Development", "Graphic Design", "Mobile Apps", "Digital Marketing"],
+      "positioning": "Kuwait-based creative and technical agency",
+      "language_style": "Creative, design English",
+      "industry": "Web / Design",
+      "size": "Medium"
+    },
+    {
+      "name": "Uniweb IT Solutions",
+      "country": "Kuwait",
+      "website": null,
+      "services": ["Web Development", "Software Development", "IT Services"],
+      "positioning": "Leading software company in Kuwait",
+      "language_style": "Service English",
+      "industry": "Software House",
+      "size": "Medium"
+    },
+    {
+      "name": "Poixel Kuwait",
+      "country": "Kuwait",
+      "website": null,
+      "services": ["Web Development", "Digital Marketing", "Branding"],
+      "positioning": "Digital agency for Kuwaiti market",
+      "language_style": "Creative English",
+      "industry": "Digital Marketing",
+      "size": "Small"
+    },
+    {
+      "name": "Bricks Kuwait",
+      "country": "Kuwait",
+      "website": null,
+      "services": ["Software Development", "Digital Infrastructure", "IT Consulting"],
+      "positioning": "Scalable digital infrastructure provider",
+      "language_style": "Infrastructure English",
+      "industry": "IT Services",
+      "size": "Medium"
+    },
+    {
+      "name": "Merak Tech",
+      "country": "Kuwait",
+      "website": null,
+      "services": ["Cloud Services", "Cybersecurity", "IT Solutions"],
+      "positioning": "Cloud and cybersecurity specialist in Kuwait",
+      "language_style": "Security, cloud English",
+      "industry": "Cloud / Cybersecurity",
+      "size": "Medium"
+    },
+    {
+      "name": "Qatar Software Engineering (QSE)",
+      "country": "Qatar",
+      "website": null,
+      "services": ["Custom Software", "IT Consulting", "Digital Solutions"],
+      "positioning": "Top-tier software development in Qatar",
+      "language_style": "Professional, quality English",
+      "industry": "Software House",
+      "size": "Medium"
+    },
+    {
+      "name": "Exoda",
+      "country": "Qatar",
+      "website": null,
+      "services": ["Digital Transformation", "Software Development", "IT Consulting"],
+      "positioning": "Qatar digital transformation partner",
+      "language_style": "Transformation English",
+      "industry": "IT Services",
+      "size": "Medium"
+    },
+    {
+      "name": "IBTEKAR",
+      "country": "Qatar",
+      "website": null,
+      "services": ["Innovative Software", "Digital Solutions", "IT Consulting"],
+      "positioning": "Innovation-driven software company in Qatar",
+      "language_style": "Innovation English",
+      "industry": "Software House",
+      "size": "Medium"
+    },
+    {
+      "name": "Almana Networks",
+      "country": "Qatar",
+      "website": null,
+      "services": ["Networking", "IT Infrastructure", "Managed Services"],
+      "positioning": "Qatar networking and IT infrastructure specialist",
+      "language_style": "Technical, network English",
+      "industry": "IT Services",
+      "size": "Medium"
+    },
+    {
+      "name": "SMIT (Smart Management IT Solutions)",
+      "country": "Qatar",
+      "website": null,
+      "services": ["Digital Transformation", "Software Development", "IT Consulting"],
+      "positioning": "Smart IT solutions for Qatari enterprises",
+      "language_style": "Smart, modern English",
+      "industry": "IT Services",
+      "size": "Medium"
+    },
+    {
+      "name": "Khazna Data Centers",
+      "country": "UAE",
+      "website": null,
+      "services": ["Data Centers", "Colocation", "Cloud Infrastructure", "Managed Services"],
+      "positioning": "Top wholesale data center provider in MENA",
+      "language_style": "Infrastructure, scale English",
+      "industry": "Cloud / Data Centers",
+      "size": "Large, UAE"
+    },
+    {
+      "name": "Rack Centre",
+      "country": "UAE",
+      "website": null,
+      "services": ["Colocation", "Cloud Solutions", "Data Center Services"],
+      "positioning": "World-class infrastructure for cloud computing",
+      "language_style": "Infrastructure, reliable English",
+      "industry": "Cloud / Data Centers",
+      "size": "Medium"
+    },
+    {
+      "name": "Injazat Data Systems",
+      "country": "UAE",
+      "website": null,
+      "services": ["Cloud", "Managed Services", "Digital Transformation", "IT Services"],
+      "positioning": "UAE-born digital transformation leader",
+      "language_style": "Enterprise, UAE-first English",
+      "industry": "Cloud / IT Services",
+      "size": "Large"
+    },
+    {
+      "name": "eHosting DataFort",
+      "country": "UAE",
+      "website": null,
+      "services": ["Cloud Services", "Managed Hosting", "Data Centers", "Security"],
+      "positioning": "Trusted cloud and managed services in UAE",
+      "language_style": "Trust, reliability English",
+      "industry": "Cloud",
+      "size": "Medium"
+    },
+    {
+      "name": "BIOS Middle East Group",
+      "country": "UAE",
+      "website": null,
+      "services": ["Cloud Infrastructure", "Cybersecurity", "Managed Services"],
+      "positioning": "Middle East cloud and security group",
+      "language_style": "Group, solutions English",
+      "industry": "Cloud / Cybersecurity",
+      "size": "Medium"
+    },
+    {
+      "name": "Huawei Cloud Middle East",
+      "country": "UAE",
+      "website": null,
+      "services": ["Cloud Computing", "AI", "IoT", "Big Data"],
+      "positioning": "Global cloud with local presence in ME",
+      "language_style": "Global-tech English",
+      "industry": "Cloud",
+      "size": "Large, global"
+    },
+    {
+      "name": "Oracle Cloud Middle East",
+      "country": "UAE",
+      "website": null,
+      "services": ["Cloud Infrastructure", "Database", "ERP Cloud", "AI Services"],
+      "positioning": "Enterprise cloud for Middle East organizations",
+      "language_style": "Enterprise, database English",
+      "industry": "Cloud",
+      "size": "Large, global"
+    },
+    {
+      "name": "IBM Cloud Middle East",
+      "country": "UAE",
+      "website": null,
+      "services": ["Cloud", "AI", "Hybrid Cloud", "Blockchain", "Consulting"],
+      "positioning": "Enterprise hybrid cloud leader",
+      "language_style": "Enterprise, consulting English",
+      "industry": "Cloud / IT Services",
+      "size": "Large, global"
+    },
+    {
+      "name": "AWS Middle East",
+      "country": "UAE",
+      "website": null,
+      "services": ["Cloud Computing", "AI/ML", "IoT", "Serverless", "Storage"],
+      "positioning": "Leading cloud provider in Middle East",
+      "language_style": "Technical, scale English",
+      "industry": "Cloud",
+      "size": "Large, global (35% ME share)"
+    },
+    {
+      "name": "Microsoft Azure Middle East",
+      "country": "UAE",
+      "website": null,
+      "services": ["Cloud Computing", "AI", "Azure Services", "Hybrid Cloud"],
+      "positioning": "Enterprise cloud and AI platform in ME",
+      "language_style": "Enterprise, integrated English",
+      "industry": "Cloud",
+      "size": "Large, global (19.6% ME share)"
+    },
+    {
+      "name": "Google Cloud Middle East",
+      "country": "UAE",
+      "website": null,
+      "services": ["Cloud Computing", "Data Analytics", "AI/ML", "G Suite"],
+      "positioning": "Data analytics and ML leader in ME cloud",
+      "language_style": "Data, innovation English",
+      "industry": "Cloud",
+      "size": "Large, global (14.8% ME share)"
+    },
+    {
+      "name": "Webedia Arabia",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Digital Marketing", "Content Production", "Media", "SEO"],
+      "positioning": "Saudi Arabic content at scale",
+      "language_style": "Content-scale, media English",
+      "industry": "Digital Marketing / Media",
+      "size": "Riyadh-based, large"
+    },
+    {
+      "name": "Silah Gulf",
+      "country": "Bahrain",
+      "website": null,
+      "services": ["Digital Marketing", "SEO", "B2B Marketing", "Gulf Market Expertise"],
+      "positioning": "Niche Gulf B2B expertise",
+      "language_style": "B2B, Gulf-market English",
+      "industry": "Digital Marketing",
+      "size": "Bahrain-based"
+    },
+    {
+      "name": "Publicis Groupe MEA",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Advertising", "Digital Marketing", "Media", "Creative"],
+      "positioning": "Global agency network in Middle East",
+      "language_style": "Global, creative English",
+      "industry": "Digital Marketing / Advertising",
+      "size": "Large, Riyadh/Dubai"
+    },
+    {
+      "name": "Wunderman Thompson MENA",
+      "country": "UAE",
+      "website": null,
+      "services": ["Digital Marketing", "Branding", "CX", "Creative"],
+      "positioning": "Global digital agency in MENA",
+      "language_style": "Global, CX English",
+      "industry": "Digital Marketing",
+      "size": "Large, Dubai"
+    },
+    {
+      "name": "Memac Ogilvy",
+      "country": "UAE",
+      "website": null,
+      "services": ["Advertising", "PR", "Digital Marketing", "Branding"],
+      "positioning": "Leading communications network in MENA",
+      "language_style": "Communications, global English",
+      "industry": "Digital Marketing / PR",
+      "size": "Large, Dubai"
+    },
+    {
+      "name": "TBWA\\Raad",
+      "country": "UAE",
+      "website": null,
+      "services": ["Advertising", "Branding", "Digital Marketing", "Creative"],
+      "positioning": "Disruptive advertising in Middle East",
+      "language_style": "Creative, disruptive English",
+      "industry": "Advertising",
+      "size": "Large, Dubai"
+    },
+    {
+      "name": "FP7 McCann",
+      "country": "Egypt",
+      "website": null,
+      "services": ["Advertising", "Digital Marketing", "Media", "Content"],
+      "positioning": "Leading advertising agency in Egypt and MENA",
+      "language_style": "Advertising, creative English",
+      "industry": "Digital Marketing",
+      "size": "Large, Cairo"
+    },
+    {
+      "name": "Kijamii",
+      "country": "Egypt",
+      "website": null,
+      "services": ["Digital Marketing", "Social Media", "Content", "Influencer Marketing"],
+      "positioning": "Creative digital agency in Egypt",
+      "language_style": "Creative, social English",
+      "industry": "Digital Marketing",
+      "size": "Cairo-based"
+    },
+    {
+      "name": "Brightery",
+      "country": "Egypt",
+      "website": null,
+      "services": ["Digital Marketing", "SEO", "Web Development", "Marketing SaaS"],
+      "positioning": "Digital marketing SaaS for global market",
+      "language_style": "Tool, SaaS English",
+      "industry": "Digital Marketing / SaaS",
+      "size": "Cairo-based"
+    },
+    {
+      "name": "Green Circle for Cybersecurity",
+      "country": "Jordan",
+      "website": null,
+      "services": ["Managed Security Services", "Cybersecurity Consulting", "Penetration Testing"],
+      "positioning": "Leading cybersecurity managed services in ME",
+      "language_style": "Security, managed English",
+      "industry": "Cybersecurity",
+      "size": "Riyadh/Amman/London"
+    },
+    {
+      "name": "TJDEED Technology",
+      "country": "Jordan",
+      "website": null,
+      "services": ["Digital Transformation", "Enterprise Solutions", "Software Development"],
+      "positioning": "Leading digital transformation company in Jordan",
+      "language_style": "Transformation, enterprise English",
+      "industry": "Digital Transformation",
+      "size": "Jordan-based"
+    },
+    {
+      "name": "Digital Cash for IT",
+      "country": "Jordan",
+      "website": null,
+      "services": ["Fintech Platform", "E-wallets", "BNPL", "Loyalty Systems", "Fintech SaaS"],
+      "positioning": "Fintech software development, GCC deployed",
+      "language_style": "Fintech, IP-owning English",
+      "industry": "Fintech / Software",
+      "size": "Founded 2017, Amman/Riyadh"
+    },
+    {
+      "name": "Mozon Technology",
+      "country": "Jordan",
+      "website": null,
+      "services": ["Custom Software", "Project Management Systems", "SaaS Products"],
+      "positioning": "Oldest and most experienced Jordanian software firm",
+      "language_style": "Heritage, reliable English",
+      "industry": "Software House",
+      "size": "Founded 2002, roots 1982"
+    },
+    {
+      "name": "Geel Tech",
+      "country": "Jordan",
+      "website": null,
+      "services": ["Software Development", "Web Development", "Mobile Apps"],
+      "positioning": "Jordan-based software development",
+      "language_style": "Service English",
+      "industry": "Software House",
+      "size": "Amman-based"
+    },
+    {
+      "name": "Coders Enterprise",
+      "country": "Jordan",
+      "website": null,
+      "services": ["Drupal Services", "Mobile Apps", "Flutter", "E-commerce", "Startup Solutions"],
+      "positioning": "Leading tech company in Amman",
+      "language_style": "Drupal, tech English",
+      "industry": "Web Development",
+      "size": "Amman-based"
+    },
+    {
+      "name": "Imagine Technologies",
+      "country": "Jordan",
+      "website": null,
+      "services": ["Software Development", "Mobile Apps", "Digital Transformation"],
+      "positioning": "Jordan software and digital solutions",
+      "language_style": "Professional English",
+      "industry": "Software House",
+      "size": "Amman-based"
+    },
+    {
+      "name": "Aspire Jordan",
+      "country": "Jordan",
+      "website": null,
+      "services": ["Quality Assurance", "Software Testing", "Media Publishing Tech"],
+      "positioning": "QA and testing specialist for US media",
+      "language_style": "QA, US-market English",
+      "industry": "Software Testing",
+      "size": "Amman-based, US clients"
+    },
+    {
+      "name": "Saib",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Mobile Apps", "Web Development", "Digital Solutions"],
+      "positioning": "Saudi mobile and web development",
+      "language_style": "Service English",
+      "industry": "Software House",
+      "size": "Small"
+    },
+    {
+      "name": "B-Infotech",
+      "country": "Qatar",
+      "website": null,
+      "services": ["Software Development", "IT Solutions", "Digital Services"],
+      "positioning": "Qatar software and IT services",
+      "language_style": "Service English",
+      "industry": "IT Services",
+      "size": "Small"
+    },
+    {
+      "name": "Teamer",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["HR SaaS", "Workforce Management", "Employee Experience"],
+      "positioning": "Saudi HR and workforce platform",
+      "language_style": "HR-tech English",
+      "industry": "SaaS",
+      "size": "Founded 2019, Riyadh"
+    },
+    {
+      "name": "ZATCA-approved EDM",
+      "country": "Saudi Arabia",
+      "website": "https://edm-tech.com/en-sa",
+      "services": ["ZATCA Compliance", "ERP", "POS", "E-invoicing"],
+      "positioning": "ZATCA approved, Microsoft Gold Partner",
+      "language_style": "Compliance, ERP English",
+      "industry": "Enterprise Software",
+      "size": "17+ years in KSA"
+    },
+    {
+      "name": "Tashfier",
+      "country": "Jordan",
+      "website": null,
+      "services": ["Software Development", "Mobile Apps", "IT Solutions"],
+      "positioning": "Jordanian software development",
+      "language_style": "Professional English",
+      "industry": "Software House",
+      "size": "Amman-based"
+    },
+    {
+      "name": "Future Communications Company (FCC)",
+      "country": "Kuwait",
+      "website": null,
+      "services": ["Large-scale Enterprise IT", "Communications", "Managed Services"],
+      "positioning": "Large-scale enterprise communications in Kuwait",
+      "language_style": "Enterprise, infrastructure English",
+      "industry": "IT Services",
+      "size": "Kuwait-based"
+    },
+    {
+      "name": "Emstell Technology Consulting",
+      "country": "Kuwait",
+      "website": null,
+      "services": ["Technology Consulting", "Software Development", "IT Advisory"],
+      "positioning": "Kuwait technology consulting",
+      "language_style": "Consulting, advisory English",
+      "industry": "IT Consulting",
+      "size": "Kuwait-based"
+    },
+    {
+      "name": "Alwafaa Group",
+      "country": "Kuwait",
+      "website": null,
+      "services": ["Software Development", "Web Development", "SEO", "Digital Marketing"],
+      "positioning": "360 digital transformation across GCC",
+      "language_style": "360-solutions English",
+      "industry": "Software / Marketing",
+      "size": "50+ employees"
+    },
+    {
+      "name": "QSoft Qatar",
+      "country": "Qatar",
+      "website": null,
+      "services": ["Software Development", "Web Development", "Mobile Apps"],
+      "positioning": "Qatar-based software company",
+      "language_style": "Service English",
+      "industry": "Software House",
+      "size": "Doha-based"
+    },
+    {
+      "name": "Gulf Infotech Qatar",
+      "country": "Qatar",
+      "website": null,
+      "services": ["Software Development", "IT Solutions", "Digital Transformation"],
+      "positioning": "Qatar IT solutions provider",
+      "language_style": "Solutions English",
+      "industry": "IT Services",
+      "size": "Doha-based"
+    },
+    {
+      "name": "Zerone Technologies Qatar",
+      "country": "Qatar",
+      "website": null,
+      "services": ["IT Infrastructure", "Security", "Cloud Solutions"],
+      "positioning": "Reliable local partner for future-ready tech in Qatar",
+      "language_style": "Infrastructure, security English",
+      "industry": "IT Services",
+      "size": "Doha-based"
+    },
+    {
+      "name": "Qatar Mobility Innovations Center (QMIC)",
+      "country": "Qatar",
+      "website": null,
+      "services": ["Mobility Solutions", "IoT", "Smart City Tech", "AI"],
+      "positioning": "Qatar mobility innovations leader",
+      "language_style": "Innovation, mobility English",
+      "industry": "AI / IoT",
+      "size": "Doha-based"
+    },
+    {
+      "name": "Robusta Studio",
+      "country": "Egypt",
+      "website": null,
+      "services": ["Software Development", "Digital Products", "MVP", "Web Applications"],
+      "positioning": "Crafting scalable digital products from Cairo",
+      "language_style": "Startup, product English",
+      "industry": "Software House",
+      "size": "Cairo-based"
+    },
+    {
+      "name": "Sumerge Egypt",
+      "country": "Egypt",
+      "website": null,
+      "services": ["Cloud", "Enterprise Applications", "Systems Modernization"],
+      "positioning": "Cloud and modernization specialist",
+      "language_style": "Cloud, modernization English",
+      "industry": "IT Services",
+      "size": "Cairo-based"
+    },
+    {
+      "name": "Avelabs",
+      "country": "Egypt",
+      "website": null,
+      "services": ["Embedded Software", "Automotive Tech", "R&D Services"],
+      "positioning": "Embedded software and automotive R&D",
+      "language_style": "Technical, engineering English",
+      "industry": "Embedded Software",
+      "size": "Cairo-based"
+    },
+    {
+      "name": "Thndr",
+      "country": "Egypt",
+      "website": null,
+      "services": ["Stock Trading", "Investment Platform", "Fintech SaaS"],
+      "positioning": "Democratizing investing in Egypt",
+      "language_style": "Consumer fintech, accessible English",
+      "industry": "Fintech / SaaS",
+      "size": "Cairo-based"
+    },
+    {
+      "name": "Halan",
+      "country": "Egypt",
+      "website": null,
+      "services": ["Fintech Super App", "E-commerce", "Credit Solutions", "Delivery"],
+      "positioning": "Financial technology super app in Egypt",
+      "language_style": "Super-app, consumer English",
+      "industry": "Fintech / SaaS",
+      "size": "Founded 2017, Cairo"
+    },
+    {
+      "name": "Yanzo",
+      "country": "UAE",
+      "website": null,
+      "services": ["AI Platform", "Marketing Analytics", "Customer Intelligence"],
+      "positioning": "AI marketing intelligence",
+      "language_style": "Marketing AI English",
+      "industry": "AI / MarTech",
+      "size": "UAE-based"
+    },
+    {
+      "name": "Sarwa",
+      "country": "UAE",
+      "website": null,
+      "services": ["AI-powered Investment", "Wealth Management", "Fintech"],
+      "positioning": "AI-powered wealth management in UAE",
+      "language_style": "Investment, AI English",
+      "industry": "AI / Fintech",
+      "size": "Dubai-based"
+    },
+    {
+      "name": "Lyve Global",
+      "country": "UAE",
+      "website": null,
+      "services": ["B2B Payments", "Delivery SaaS", "E-commerce Infrastructure"],
+      "positioning": "B2B payment and delivery platform",
+      "language_style": "B2B, infrastructure English",
+      "industry": "SaaS",
+      "size": "Dubai-based"
+    },
+    {
+      "name": "Ziwo",
+      "country": "UAE",
+      "website": null,
+      "services": ["Cloud Contact Center", "Voice API", "Omnichannel SaaS"],
+      "positioning": "Middle East's leading cloud contact center",
+      "language_style": "API, communications English",
+      "industry": "SaaS / Communications",
+      "size": "Dubai-based"
+    },
+    {
+      "name": "Brand Stallion",
+      "country": "UAE",
+      "website": null,
+      "services": ["Digital Marketing", "Branding", "Web Development", "SEO"],
+      "positioning": "Digital growth agency in UAE",
+      "language_style": "Growth, digital English",
+      "industry": "Digital Marketing",
+      "size": "Dubai-based"
+    },
+    {
+      "name": "Amplify UAE",
+      "country": "UAE",
+      "website": null,
+      "services": ["Digital Marketing", "SEO", "PPC", "Social Media", "Content"],
+      "positioning": "Performance-driven digital agency",
+      "language_style": "Performance English",
+      "industry": "Digital Marketing",
+      "size": "Dubai-based"
+    },
+    {
+      "name": "Ignite Digital",
+      "country": "UAE",
+      "website": null,
+      "services": ["SEO", "Digital Marketing", "AI Marketing", "Content Strategy"],
+      "positioning": "SEO and digital growth in UAE",
+      "language_style": "Growth, AI English",
+      "industry": "SEO / Digital Marketing",
+      "size": "Dubai-based"
+    },
+    {
+      "name": "GCC Marketing",
+      "country": "UAE",
+      "website": null,
+      "services": ["SEO", "Mobile App Development", "Digital Marketing", "Web Development"],
+      "positioning": "Performance-oriented, UX-enhanced digital agency in GCC",
+      "language_style": "GCC-focused, performance English",
+      "industry": "Digital Marketing / SEO",
+      "size": "Dubai-based, GCC-wide"
+    },
+    {
+      "name": "AppLabx",
+      "country": "UAE",
+      "website": null,
+      "services": ["SEO", "AEO", "GEO", "App Development", "Digital Marketing"],
+      "positioning": "AI and search optimization leader in ME",
+      "language_style": "AI-search, technical English",
+      "industry": "SEO / Digital Marketing",
+      "size": "UAE-based"
+    },
+    {
+      "name": "SEO Sherpa",
+      "country": "UAE",
+      "website": null,
+      "services": ["SEO", "Content Authority", "Technical SEO", "Link Building"],
+      "positioning": "Premium content authority in ME",
+      "language_style": "Authority, content English",
+      "industry": "SEO",
+      "size": "Dubai-based"
+    },
+    {
+      "name": "Digital Nexa",
+      "country": "UAE",
+      "website": null,
+      "services": ["SEO", "Web 3.0 Marketing", "Metaverse Visibility", "Blockchain SEO"],
+      "positioning": "Progressive, futuristic SEO agency in ME",
+      "language_style": "Web3, futuristic English",
+      "industry": "SEO / Digital Marketing",
+      "size": "UAE-based"
+    },
+    {
+      "name": "Prism Digital",
+      "country": "UAE",
+      "website": null,
+      "services": ["SEO", "Digital Marketing", "Social Media", "Web Development"],
+      "positioning": "Digital performance agency in UAE",
+      "language_style": "Performance, digital English",
+      "industry": "SEO / Digital Marketing",
+      "size": "Dubai-based"
+    },
+    {
+      "name": "Ruya Brand Strategy",
+      "country": "UAE",
+      "website": null,
+      "services": ["Brand Strategy", "Destination Branding", "Government Branding", "Place Identity"],
+      "positioning": "Best brand strategy for government and real estate",
+      "language_style": "Strategic, place-branding English",
+      "industry": "Branding",
+      "size": "Dubai-based"
+    },
+    {
+      "name": "Brash Agency",
+      "country": "UAE",
+      "website": null,
+      "services": ["Branding", "Luxury Real Estate Branding", "Place Branding", "Design"],
+      "positioning": "Best for place branding and luxury real estate",
+      "language_style": "Luxury, real estate English",
+      "industry": "Branding",
+      "size": "Dubai Design District"
+    },
+    {
+      "name": "Haus of Hendricks",
+      "country": "UAE",
+      "website": null,
+      "services": ["Luxury Branding", "Premium Design", "Brand Strategy"],
+      "positioning": "Best luxury branding agency in Dubai",
+      "language_style": "Luxury, exclusive English",
+      "industry": "Branding",
+      "size": "Dubai-based"
+    },
+    {
+      "name": "Scarlet Royal",
+      "country": "Saudi Arabia",
+      "website": null,
+      "services": ["Branding", "Visual Identity", "Web Design", "Marketing"],
+      "positioning": "Comprehensive brand identity development",
+      "language_style": "Complete-brand English",
+      "industry": "Branding",
+      "size": "Saudi Arabia"
+    }
+  ]
+}
