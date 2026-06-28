@@ -2,12 +2,30 @@
 
 A reusable LLM skill for generating high-quality Arabic business content tailored to Saudi Arabian and Middle Eastern technology markets.
 
+## Install via opencode
+
+```bash
+# From GitHub (recommended)
+npx skills add EngOREEO/content-creator-skill -g -y
+
+# Or from npm
+npx skills add @engoreeo/arabic-content-creator-skill -g -y
+```
+
+Then activate with `/arabic` in any opencode conversation.
+
 ## Files
 
 | File | Description |
 |------|-------------|
-| `arabic-content-skill.md` | Main skill file — drop into any LLM that supports system prompts/skills |
-| `scoring-engine.md` | 0–100 evaluation system for automatic content quality scoring |
+| `SKILL.md` | opencode-compatible skill file (entry point for `npx skills add`) |
+| `arabic-content-skill.md` | Main skill file (907 lines) — drop into any LLM |
+| `scoring-engine.md` | 0–100 evaluation system (689 lines) |
+| `research/` | Full research datasets (analysis, patterns, localization guide, style guide, blacklist) |
+
+## Marketplace
+
+This skill is listed on [skills.sh](https://skills.sh) — the opencode skills marketplace.
 
 ## What It Does
 
