@@ -2,17 +2,17 @@
 
 A reusable LLM skill for generating high-quality Arabic business content tailored to Saudi Arabian and Middle Eastern technology markets.
 
-## Install via opencode
+## Install via Claude Code
 
 ```bash
 # From GitHub (recommended)
-npx skills add EngOREEO/content-creator-skill -g -y
+npx skills add EngOREOO/content-creator-skill -g -y
 
 # Or from npm
 npx skills add @engoreeo/arabic-content-creator-skill -g -y
 ```
 
-Then activate with `/arabic` in any opencode conversation.
+Then activate with `/arabic` in any Claude Code conversation.
 
 ## Files
 
@@ -25,7 +25,7 @@ Then activate with `/arabic` in any opencode conversation.
 
 ## Marketplace
 
-This skill is listed on [skills.sh](https://skills.sh) — the opencode skills marketplace.
+This skill is available on the [Claude Marketplace](https://github.com/EngOREOO/content-creator-skill) — install it in Claude Code with `npx skills add EngOREOO/content-creator-skill -g -y`.
 
 ## What It Does
 
@@ -43,7 +43,7 @@ The skill was built from a systematic analysis of **234 Middle Eastern tech comp
 
 ## How to Use With Different LLMs
 
-### Claude (via opencode or direct)
+### Claude Code (recommended)
 
 **Option A — Skill file (recommended):**
 1. Copy `arabic-content-skill.md` to `~/.claude/skills/arabic-content-creator/SKILL.md`

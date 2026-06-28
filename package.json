@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Expert Arabic content strategist and copywriter specialized in Saudi Arabian and Middle Eastern technology markets. Generates high-quality bilingual (Arabic-English) business content, marketing copy, SEO-optimized pages, and conversion-focused writing for software houses, AI companies, SaaS, cybersecurity, and digital agencies.",
   "keywords": [
-    "opencode",
-    "opencode-skill",
+    "claude-code",
+    "claude-code-skill",
     "arabic",
     "content",
     "copywriting",
@@ -18,9 +18,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EngOREEO/content-creator-skill.git"
+    "url": "git+https://github.com/EngOREOO/content-creator-skill.git"
   },
-  "opencode": {
+  "claude": {
     "skill": {
       "name": "arabic-content-creator",
       "description": "Expert Arabic content strategist and copywriter specialized in Saudi Arabian and Middle Eastern technology markets",
